@@ -1,0 +1,40 @@
+
+body{
+  background-image: url(https://sun9-4.userapi.com/impg/aAmJYtblvomhvHPJZSq6cE7JQorOWInXq2bkWg/UrQNZd9faoQ.jpg?size=800x400&quality=96&sign=825ba134a6da67be62867db51a57dc7b&type=album);
+   }
+
+h1{
+   font-size: 45px;
+   color:  rgb(0, 150, 187);
+}
+
+ h2{
+    font-size: 40px;
+    color:  rgb(0, 255, 221);
+ }
+ p{
+    font-size: 36;
+    color: rgb(16, 230, 159);
+ }
+ 
+ a 
+ {font-size: 45px;
+    color:  rgb(255, 0, 0);
+ }
+    body{
+ margin-left: 550px;
+
+ }
+ ol
+ { font-size: 30px;
+   color:  rgb(21, 154, 216));
+
+ }
+ ul
+ { font-size: 36px;
+   color:  rgb(16, 16, 17);
+
+ }
+ 
+ 
+ 
