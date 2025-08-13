@@ -8,18 +8,18 @@ h1{
    color:  rgb(0, 150, 187);
 }
 
- h2{
-    font-size: 40px;
-    color:  rgb(0, 255, 221);
- }
- p{
-    font-size: 36;
-    color: rgb(16, 230, 159);
- }
- 
- a 
- {font-size: 45px;
-    color:  rgb(255, 0, 0);
+  h2{
+     font-size: 40px;
+     color:  rgb(0, 255, 221);
+  }
+  p{
+     font-size: 36px;
+     color: rgb(16, 230, 159);
+  }
+  
+  a 
+  {font-size: 45px;
+     color:  rgb(255, 0, 0);
  }
     body{
  margin-left: 550px;
@@ -27,7 +27,7 @@ h1{
  }
  ol
  { font-size: 30px;
-   color:  rgb(21, 154, 216));
+   color:  rgb(21, 154, 216);
 
  }
  ul
